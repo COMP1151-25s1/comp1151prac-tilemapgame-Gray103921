@@ -9,16 +9,16 @@
     ],
     "fileStates": {
         "Tilemap.tmx": {
-            "scale": 4,
-            "selectedLayer": -1,
+            "scale": 3,
+            "selectedLayer": 0,
             "viewCenter": {
-                "x": 19.25,
-                "y": -16.375
+                "x": 29.666666666666657,
+                "y": -10.166666666666657
             }
         },
         "Tilesheet.tsx": {
-            "scaleInDock": 2,
-            "scaleInEditor": 1
+            "scaleInDock": 1.5,
+            "scaleInEditor": 3
         }
     },
     "last.imagePath": "C:/Users/49144553/Documents/comp1151prac-tilemapgame-Gray103921/Assets/Tiled/TilemapGame",
